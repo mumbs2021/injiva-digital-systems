@@ -1,0 +1,8 @@
+GITHUB PAGES RELEASE 1.1.0 — 31 OCTOBER 2026
+25 automated tests passed; 0 failed; 0 skipped.
+33 HTML pages checked. npm audit: 0 known vulnerabilities at test time.
+Public-only build and YAML parsing passed.
+Chromium enquiry draft flow checked; active contact CTA contrast fixed.
+See documentation/TEST-REPORT.md for coverage and limits.
+See documentation/GITHUB-PAGES.md for deployment, live checks and rollback.
+No GitHub account deployment, DNS change or email transmission performed.

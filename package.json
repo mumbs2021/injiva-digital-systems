@@ -1,0 +1,13 @@
+{
+  "name": "injiva-digital-systems",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Static INJIVA website with GitHub Pages release checks",
+  "scripts": {
+    "test": "node --check assets/js/main.js && node --test tests/*.test.cjs",
+    "build": "node scripts/build.cjs",
+    "check:live": "node scripts/check-live.cjs"
+  },
+  "engines": { "node": ">=24" },
+  "devDependencies": { "jsdom": "30.1.3" }
+}
